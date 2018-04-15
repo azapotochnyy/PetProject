@@ -1,0 +1,14 @@
+net.goodfoodonly.controller
+net.goodfoodonly.controller.admin
+net.goodfoodonly.controller.forward
+net.goodfoodonly.controller.user
+net.goodfoodonly.dao
+net.goodfoodonly.dao.utils
+net.goodfoodonly.dao.utils.exceptions
+net.goodfoodonly.dao.utils.exceptions.menu
+net.goodfoodonly.dao.utils.exceptions.user
+net.goodfoodonly.domains
+net.goodfoodonly.dto
+net.goodfoodonly.service
+net.goodfoodonly.servlets
+net.goodfoodonly.validation
